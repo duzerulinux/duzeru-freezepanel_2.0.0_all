@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=DZ FreezePanel
+Name[ca]=DZ FreezePanel
+Name[en_AU]=DZ FreezePanel
+Name[en_GB]=DZ FreezePanel
+Name[pt]= DZ Congelar Painel
+Name[pt_BR]=DZ Congelar Painel
+Name[pt_PT]=DZ Congelar Painel
+Comment= Lock Unlock panels.
+Comment[en_AU]= Lock Unlock panels. 
+Comment[en_GB]= Lock Unlock panels. 
+Comment[pt]= Congelar descongelar paineis
+Comment[pt_BR]= Congelar descongelar paineis
+Comment[pt_PT]=Congelar descongelar paineis
+Exec=duzeru-freezepanel
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;Settings;DesktopSettings;Utility;
+Keywords=Configuration;Menu;User;
+Icon=duzeru-freezepanel
+X-Ubuntu-Gettext-duzeru-freezepanel

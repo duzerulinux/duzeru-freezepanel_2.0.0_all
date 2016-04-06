@@ -1,0 +1,14 @@
+Package: duzeru-freezepanel
+Version: 2.0.0
+Maintainer: Claudio A. Silva <claudiosilva@duzeru.org>
+Architecture: all
+Section: acessories
+Priority: optional
+Installed-Size: 1200
+Depends: python-simplejson, libjs-jquery
+Homepage: http://duzeru.org
+Description: duzeru freezepanel bloqueia paineis da interface
+ Feito no DuZeru para Debian e derivados com Xfce
+ .
+ duzeru freezepanel blocks Xfce panels.
+ made in DuZeru for Debian and derivates with Xfce.
